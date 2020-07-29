@@ -1,0 +1,13 @@
+.error {
+    border: red 1px solid;
+}
+
+.errormessage {
+    color: red;
+}
+
+.universal {
+    border: green solid 1px;
+    border-radius: 5px;
+    padding: 10px;
+}
